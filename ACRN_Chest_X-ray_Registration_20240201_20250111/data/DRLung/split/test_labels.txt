@@ -1,0 +1,11 @@
+../data/DRLung/test/mask/13.png
+../data/DRLung/test/mask/18.png
+../data/DRLung/test/mask/23.png
+../data/DRLung/test/mask/19.png
+../data/DRLung/test/mask/16.png
+../data/DRLung/test/mask/17.png
+../data/DRLung/test/mask/15.png
+../data/DRLung/test/mask/21.png
+../data/DRLung/test/mask/22.png
+../data/DRLung/test/mask/14.png
+../data/DRLung/test/mask/20.png

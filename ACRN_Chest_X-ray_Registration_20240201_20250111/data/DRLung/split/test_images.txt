@@ -1,0 +1,11 @@
+../data/DRLung/test/original/13.png
+../data/DRLung/test/original/18.png
+../data/DRLung/test/original/23.png
+../data/DRLung/test/original/19.png
+../data/DRLung/test/original/16.png
+../data/DRLung/test/original/17.png
+../data/DRLung/test/original/15.png
+../data/DRLung/test/original/21.png
+../data/DRLung/test/original/22.png
+../data/DRLung/test/original/14.png
+../data/DRLung/test/original/20.png

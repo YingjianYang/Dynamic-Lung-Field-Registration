@@ -1,0 +1,11 @@
+../data/DRLung/labels/00011587_001.png
+../data/DRLung/labels/CHNCXR_0461_1.png
+../data/DRLung/labels/MCUCXR_0023_0.png
+../data/DRLung/labels/CHNCXR_0546_1.png
+../data/DRLung/labels/CHNCXR_0365_1.png
+../data/DRLung/labels/Normal-225.png
+../data/DRLung/labels/CHNCXR_0430_1.png
+../data/DRLung/labels/CHNCXR_0180_0.png
+../data/DRLung/labels/CHNCXR_0280_0.png
+../data/DRLung/labels/CHNCXR_0042_0.png
+../data/DRLung/labels/Normal-2245.png
